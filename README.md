@@ -1,4 +1,8 @@
 DataMiningCluster
 =================
 
-Implement text clustering algorithm such as K-means, MBSAS and so on.
+Implementation of text clustering algorithms including K-means, MBSAS, DBSCAN.
+
+Author: Liu Yang(yangliuyx@gmail.com)
+
+Author's blog: http://blog.csdn.net/yangliuy
